@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo -e ""
-echo -e "==========================-TUANYZ-=========================="
+echo -e "==========================-J&J Cell-=========================="
 echo -e "* menu         : List of Main Commands"
 echo -e ""
 echo -e "=========================-SSH & OpenVPN-========================"
